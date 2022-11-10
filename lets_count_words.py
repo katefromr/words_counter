@@ -1,4 +1,4 @@
-with open('dataset_3363_3.txt', 'r') as file:
+with open('name.txt', 'r') as file: #instead of name.txt put your .txt file with text
 	text = file.read()
     
 def lets_count(text):
